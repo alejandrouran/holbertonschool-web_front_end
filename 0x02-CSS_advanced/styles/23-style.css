@@ -120,9 +120,9 @@
   }
 
   .row:empty:after {
-    content: none;
-    display: table;
-    float: none;
+        content: none;
+        display: table;
+        float: none;
   }
   
   .col-1-3 {
