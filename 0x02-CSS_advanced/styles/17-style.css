@@ -8,7 +8,7 @@
   
   html {
       scroll-behavior: smooth;
-      font-size: 62.5%
+      font-size: 62.5%;
   }
   
   body {
@@ -26,28 +26,20 @@
   
   a:visited {
       font-style: italic;
-    }
+  }
     
-    a:hover {
+  a:hover {
       text-decoration: underline;
-    }
+  }
     
-    a:active {
+  a:active {
       background-color: var(--color-light-grey);
-    }
+  }
     
-    .visually-hidden {
-      display: none;
-    }
-    
-    .card-category {
-      color: var(--color-primary);
-    }
-  
   .visually-hidden {
       display: none;
   }
-  
+    
   .card-category {
       color: var(--color-primary);
   }
@@ -64,7 +56,6 @@
   .section-body {
     padding: var(--section-body-padding);
   }
-
 
   .section-footer {
     padding: var(--section-body-padding);
