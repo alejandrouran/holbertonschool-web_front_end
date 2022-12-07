@@ -8,7 +8,7 @@
   
   html {
       scroll-behavior: smooth;
-      font-size: 62.5%
+      font-size: 62.5%;
   }
   
   body {
@@ -26,32 +26,24 @@
   
   a:visited {
       font-style: italic;
-    }
+  }
     
-    a:hover {
+  a:hover {
       text-decoration: underline;
-    }
+  }
     
-    a:active {
+  a:active {
       background-color: var(--color-light-grey);
-    }
+  }
     
-    .visually-hidden {
-      display: none;
-    }
-    
-    .card-category {
-      color: var(--color-primary);
-    }
-  
   .visually-hidden {
       display: none;
   }
-  
+    
   .card-category {
       color: var(--color-primary);
   }
-  
+
   .section-header {
       text-align: var(--section-header-align);   
   }
@@ -62,7 +54,7 @@
       font-weight: var(--font-weight-bold);
       margin: var(--section-title-margin);
       color: var(--section-title-color);
-    }
+  }
     
   .section-tagline {
       color: var(--color-primary);
