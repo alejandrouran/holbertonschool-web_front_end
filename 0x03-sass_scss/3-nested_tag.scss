@@ -1,0 +1,8 @@
+/* file that assigns: No margin or padding body, Margin p tag */
+body {
+    margin: 0px;
+    padding: 0px; 
+    p {
+      margin: 10px; 
+    }
+}
