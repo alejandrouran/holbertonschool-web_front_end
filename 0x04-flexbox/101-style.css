@@ -15,30 +15,30 @@
     width: 5rem;
     height: 3rem;
     font-size: 1rem;
-    background-color: rebeccapurple;
+    background-color: #02FC74;
     color: white;
 }
 
 .box5 {
-    background-color: turquoise;
+    background-color: #FCA502;
 }
 
 .box2, .box4 {
     width: 8rem;
     height: 5rem;
     font-size: 2rem;
-    background-color: violet;
+    background-color: #028AFC;
     color: white;
 }
 
 .box4 {
-    background-color: dodgerblue;
+    background-color: #832D77;
 }
 
 .box3 {
     width: 11rem;
     height: 7rem;
     font-size: 4rem;
-    background-color: rgb(255, 174, 0);
+    background-color: #26244D;
     color: white;
 }
